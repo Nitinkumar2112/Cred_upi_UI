@@ -2,8 +2,8 @@
 This project is a CRED-style Profile screen user interface. It replicates the design and layout of the CRED app's profile section
 
 🛠️ Built With
-Language: Kotlin
-IDE: Android Studio
+Language: Kotlin,
+IDE: Android Studio,
 UI: XML Layouts
 
 ![creddall](https://github.com/user-attachments/assets/353217f4-7810-4600-94b4-16bb1ef578f5)
